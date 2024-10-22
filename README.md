@@ -12,3 +12,4 @@
 |[Дополнительная практика](https://github.com/HalfSize/practicum_projects/blob/main/additional_practice.ipynb)| Выявить определяющие успешность игры закономерности | phik,statsmodels, pandas, plotly, scipy |
 |[Статистический анализ](https://github.com/HalfSize/practicum_projects/blob/main/stat_analysis_git.ipynb)| Провести анализ данных с целью нахождения точек роста для бизнеса и проверить гипотезы | pandas, plotly, scipy, проверка стат. гипотез, описательная статистика, |  
 
+**Некоторые проекты содержат визуализацию, которая не поддерживается в github, а проекты tableau сделаны для полноэкранного режима. <br> Спасибо за внимание!**
