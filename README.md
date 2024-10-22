@@ -1,4 +1,5 @@
 # practicum_projects
+[*Tableau Dashboards*](https://public.tableau.com/app/profile/maksim.polumestnyi/vizzes)
 |Название проекта| Задачи проекта | Используемые инструменты |  
 |-----------|:-----------:|:-----------:|  
 |[Выявление профилей клиентов](https://github.com/HalfSize/practicum_projects/blob/main/identification_of_consumption_profiles.ipynb)| Сегментировать покупателей по профилю потребления для осуществления рекламных рассылок | ML, KMeans, dendogram, scipy, проверка стат. гипотез, сегментация, регулярные выражения |  
